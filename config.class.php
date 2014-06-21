@@ -26,7 +26,7 @@ class Config {
         $this->dbhost = "localhost";
         $this->dbname = "root";
         $this->dbuser = "password";
-        $this->dbpass = "c0d3ruy44105";
+        $this->dbpass = "password123";
         $this->dbpath = "path to *.db"; // give path to db file if you are using postgreSQL  
     }
 
