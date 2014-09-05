@@ -24,9 +24,9 @@ class Config {
         /* Change DBTYPE, HOST, DATABASE, USER, PASSWORD here*/
         $this->dbtype = "mysql";
         $this->dbhost = "localhost";
-        $this->dbname = "root";
-        $this->dbuser = "password";
-        $this->dbpass = "password123";
+        $this->dbname = "test_database";
+        $this->dbuser = "root";
+        $this->dbpass = "password";
         $this->dbpath = "path to *.db"; // give path to db file if you are using postgreSQL  
     }
 
